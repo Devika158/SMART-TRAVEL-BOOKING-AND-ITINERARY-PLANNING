@@ -1,0 +1,8 @@
+{
+  "name": "AI TravelMate - Smart Travel Booking & Itinerary Planner",
+  "description": "Intelligent AI-powered travel planner, day-wise dynamic itinerary generator, budget optimizer, simulated hotel & transit booking, live expense tracker & group splitter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
